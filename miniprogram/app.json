@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/view/S000000 Dashboard/S000000-Dashboard",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/Quick_login/Quick_login",
+    "pages/Authorized login/Authorized login",
+    "pages/getPhoneNumber/getPhoneNumber",
+    "pages/view/S100000 Insurance/S100000 Insurance",
+    "pages/view/S200000 Product/S200000 Product"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+
+  "tabBar": {  
+    "color": "#a9b7b7",  
+    "selectedColor": "#11cd6e",  
+    "borderStyle": "white" ,
+    "list": [{  
+      "pagePath": "pages/index/index",  
+      "text": "首页"  
+    }, {  
+     "pagePath": "pages/view/S000000 Dashboard/S000000-Dashboard",  
+     "text": "工作臺"  
+   },{  
+     "pagePath": "pages/index/index",  
+     "text": "我的"  
+   }
+   ]  
+ } ,
+
+ 
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"disclaimer.js","sourceRoot":"","sources":["../../../miniprogram/pages/model/disclaimer.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,QAAQ;IAMzB;QACI,IAAI,CAAC,EAAE,GAAC,EAAE,CAAC;QACX,IAAI,CAAC,OAAO,GAAC,EAAE,CAAC;QAChB,IAAI,CAAC,OAAO,GAAC,EAAE,CAAC;QAChB,IAAI,CAAC,UAAU,GAAC,IAAI,IAAI,EAAE,CAAC;QAC3B,IAAI,CAAC,QAAQ,GAAC,EAAE,CAAC;IACrB,CAAC;CACJ"}

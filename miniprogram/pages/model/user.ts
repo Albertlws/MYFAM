@@ -1,0 +1,56 @@
+export default class District {
+    id: string;
+    password: string;
+    nameEng: string;
+    nameAlt: string;
+    dateBorn: Date;
+    dateModify: Date;
+    dateAdd: Date;
+    dateLogin: Date;
+    email: string;
+    gender: string;
+    district1: string;
+    district2: string;
+    District3: string;
+    addr: string;
+    wechatID: string;
+    phoneCode: string;
+    postalCode: string;
+    numMobile: string;
+    numWorkPhone: string;
+    numHome: string;
+    numIDCard: string;
+    remark: string;
+    lang: string;
+    status: string;
+    compID: string;
+    type: string;
+    constructor() {
+        this.id="";
+        this.password="";
+        this.nameEng="";
+        this.nameAlt="";
+        this.dateBorn=new Date();
+        this.dateModify=new Date();
+        this.dateAdd=new Date();
+        this.dateLogin=new Date();
+        this.email="";
+        this.gender="";
+        this.district1="";
+        this.district2="";
+        this.District3="";
+        this.addr="";
+        this.wechatID="";
+        this.phoneCode="";
+        this.postalCode="";
+        this.numMobile="";
+        this.numWorkPhone="";
+        this.numHome="";
+        this.numIDCard="";
+        this.remark="";
+        this.lang="";
+        this.status="";
+        this.compID="";
+        this.type="";
+    }
+}

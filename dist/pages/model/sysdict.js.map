@@ -1,0 +1,1 @@
+{"version":3,"file":"sysdict.js","sourceRoot":"","sources":["../../../miniprogram/pages/model/sysdict.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,QAAQ;IAMzB;QACI,IAAI,CAAC,EAAE,GAAC,EAAE,CAAC;QACX,IAAI,CAAC,IAAI,GAAC,EAAE,CAAC;QACb,IAAI,CAAC,KAAK,GAAC,EAAE,CAAC;QACd,IAAI,CAAC,QAAQ,GAAC,EAAE,CAAC;QACjB,IAAI,CAAC,UAAU,GAAC,IAAI,IAAI,EAAE,CAAC;IAC/B,CAAC;CACJ"}

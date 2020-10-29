@@ -1,0 +1,36 @@
+
+
+  <view>
+    <view class="common-list flex-fs">
+      <view class="personal-avater">
+        <image src="/images/untitled.png"></image>
+      </view>
+      <view class="personal-name">
+        <view>鐘神秀</view>
+        <view>29嵗</view>
+      </view>
+    </view>
+  </view>
+
+
+
+  <view class="common-con">
+    <view class="common-list flex-fs">
+      <view class="header">保險業務</view>
+      <view class="common-item" wx:for="{{itemsList}}">
+        <image src="{{item.icon}}"></image>
+        <view class="msg">{{item.text}}</view>
+      </view>
+      
+    </view>
+  </view>
+  <view class="common-con">
+    <view class="common-list flex-fs">
+    <view class="header">客戶服務</view>
+      <view class="common-item" wx:for="{{customerList}}">
+        <image src="{{item.icon}}"></image>
+        <view class="msg">{{item.text}}</view>
+      </view>
+      
+    </view>
+  </view>

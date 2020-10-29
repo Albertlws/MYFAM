@@ -1,0 +1,64 @@
+/**S000000-Dashboard.wxss**/
+.container{
+  min-height: 100rpx;
+  padding-bottom: 202rpx;
+  background-color: #fff;
+}
+
+.personal-avater{
+  width: 40%;
+  flex: 0 0 40%;
+  padding: 30rpx 0;
+  background-color: #fff;
+  margin-bottom: 5rpx;
+  box-sizing: border-box;
+  min-height: 185rpx;
+}
+
+.personal-avater image {
+  border-radius: 50%;
+  width: 200rpx;
+  height: 200rpx;
+  display: block;
+  margin: 0 auto;
+}
+
+.personal-name{
+  margin-top: 30rpx;
+}
+
+.common-con .header{
+  width: 100%;
+  font-size: 40rpx;
+  color: #000;
+  line-height: 90rpx;
+}
+.common-list{
+  border-top: 1px solid ;
+  border-bottom: 1px solid ;
+  flex-wrap: wrap;
+}
+
+.flex-fs{
+  display: flex
+}
+
+.common-item{
+  width: 25%;
+  flex: 0 0 25%;
+  padding: 30rpx 0;
+  background-color: #fff;
+  margin-bottom: 5rpx;
+  box-sizing: border-box;
+  min-height: 185rpx;
+}
+
+.common-item image {
+  width: 65rpx;
+  height: 65rpx;
+  display: block;
+  margin: 0 auto;
+}
+.common-item .msg{
+  text-align: center;
+}

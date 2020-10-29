@@ -1,0 +1,2 @@
+<!--pages/Authorized login/Authorized login.wxml-->
+<button open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 微信授权信息 </button>

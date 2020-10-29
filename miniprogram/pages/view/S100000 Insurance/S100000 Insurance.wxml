@@ -1,0 +1,32 @@
+<!--pages/view/S100000 Insurance/S100000 Insurance.wxml-->
+<view class="container">
+  <view class="common-con">
+    <view class="header pdl20">保險業務</view>
+    <view class="common-list flex-fs">
+      <view class="common-item" data-id="0" bindtap='bindNavigateTo'>
+        <image src="/images/wechat.png" mode="widthFix"></image>
+        <view class="msg mgt20">保險產品</view>
+      </view>
+      <view class="common-item" data-id="1" bindtap='bindNavigateTo'>
+        <image src="/images/wechat.png" mode="widthFix"></image>
+        <view class="msg mgt20">保單管理</view>
+      </view>
+      
+    </view>
+  </view>
+  <view class="common-con">
+    <view class="header pdl20">客戶服務</view>
+    <view class="common-list flex-fs">
+      <view class="common-item" data-id="0" bindtap='bindToDetail'>
+        <image src="/images/wechat.png" mode="widthFix"></image>
+        <view class="msg mgt20">客服</view>
+      </view>
+      <view class="common-item" data-id="1" bindtap='bindToDetail'>
+        <image src="/images/wechat.png" mode="widthFix"></image>
+        <view class="msg mgt20">更新資料</view>
+      </view>
+      
+    </view>
+  </view>
+</view>
+
